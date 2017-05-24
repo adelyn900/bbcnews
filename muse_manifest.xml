@@ -1,0 +1,249 @@
+<manifest alg="2" build="2017.0.2.363" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="bbcnews.com" resolutions="1x" timestamp="1495595330637">
+  <folder name="css">
+    <file name="site_global.css" crc="443350757"/>
+    <file name="index.css" crc="147179935" ref="index"/>
+    <file name="settings.css" crc="4248256726" ref="settings"/>
+    <file name="live.css" crc="310449392" ref="live"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>live:phone>settings:index:live:settings"/>
+    <file name="museutils.js" crc="4232573551" ref="phone>index:phone>live:phone>settings:index:live:settings"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:phone>live:phone>settings:index:live:settings"/>
+    <file name="museconfig.js" crc="3849126041" ref="phone>index:phone>live:phone>settings:index:live:settings"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="phone>index:phone>live:phone>settings:index:live:settings"/>
+    <file name="jquery.scrolleffects.js" crc="146279342" ref="phone>index"/>
+    <file name="require.js" crc="4234670167" ref="phone>index:phone>live:phone>settings:index:live:settings"/>
+  </folder>
+  <folder name="images">
+    <file name="logo_bbc_news.png" crc="435835777" seo="true" ref="phone>index:phone>live">
+      <caption webpage="index" alt=""/>
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="button_menu-button-of-three-lines.png" crc="4171255539" seo="true" ref="phone>index:phone>live">
+      <caption webpage="index" alt=""/>
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="u252-4.png" crc="3975338511" ref="phone>index"/>
+    <file name="u256-4.png" crc="197851526" ref="phone>index"/>
+    <file name="u260-4.png" crc="4156053206" ref="phone>index"/>
+    <file name="u263-4.png" crc="3893544393" ref="phone>index"/>
+    <file name="img_4295 2-crop-u733.jpg" crc="3910031939" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u272.jpg" crc="383173927" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u294-6.png" crc="471450292" ref="phone>index"/>
+    <file name="u327-6.png" crc="3999065125" ref="phone>index"/>
+    <file name="img_4295 2-crop-u597.jpg" crc="225685905" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u368.jpg" crc="4054554454" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u611.jpg" crc="393327850" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u384-4.png" crc="4265050394" ref="phone>index"/>
+    <file name="img_4295 2-crop-u425.jpg" crc="4054554454" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u637-4.png" crc="58826820" ref="phone>index"/>
+    <file name="img_4295 2-crop-u630.jpg" crc="321070001" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u521.jpg" crc="4054554454" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u688-4.png" crc="37534963" ref="phone>index"/>
+    <file name="img_4295 2-crop-u678.jpg" crc="4231522174" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u501.jpg" crc="4054554454" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u723-4.png" crc="4069708706" ref="phone>index"/>
+    <file name="img_4295 2-crop-u704.jpg" crc="3799663615" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u568.jpg" crc="4054554454" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u743-4.png" crc="3843548966" ref="phone>index"/>
+    <file name="u1032-4.png" crc="4224861359" ref="phone>index"/>
+    <file name="icon_play-slideshow-button.png" crc="278421533" seo="true" ref="phone>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen_stories-crop-u964.jpg" crc="3803720489" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1033-4.png" crc="360966814" ref="phone>index"/>
+    <file name="u1059-4.png" crc="366484310" ref="phone>index"/>
+    <file name="screen_feature-crop-u1116.jpg" crc="4293531413" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1075-4.png" crc="363447626" ref="phone>index"/>
+    <file name="img_4295 2-crop-u1097.jpg" crc="3799663615" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen_feature-crop-u1126.jpg" crc="193546387" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u1104-4.png" crc="108840427" ref="phone>index"/>
+    <file name="screen_stories-crop-u1008.jpg" crc="320762908" seo="true" ref="phone>index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u923.jpg" crc="3910031939" seo="true" ref="phone>live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="u927-4.png" crc="444271378" ref="phone>live"/>
+    <file name="u910-4.png" crc="3894616366" ref="phone>live"/>
+    <file name="u925-4.png" crc="4143936642" ref="phone>live"/>
+    <file name="u926-4.png" crc="4204854222" ref="phone>live"/>
+    <file name="screen_4296_live-crop-u1175.jpg" crc="3869146039" seo="true" ref="phone>live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="button_play arrow.png" crc="85714446" seo="true" ref="phone>live:live">
+      <caption webpage="live" alt=""/>
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="u1209-8.png" crc="4066843539" ref="phone>live"/>
+    <file name="img_4295 2-crop-u1460.jpg" crc="3910031939" seo="true" ref="phone>settings">
+      <caption webpage="settings" alt=""/>
+    </file>
+    <file name="u1493-4.png" crc="478859884" ref="phone>settings"/>
+    <file name="u1499-4.png" crc="159857520" ref="phone>settings"/>
+    <file name="u1515-4.png" crc="270805057" ref="phone>settings"/>
+    <file name="u1518-4.png" crc="3970479705" ref="phone>settings"/>
+    <file name="icon_round-toggle.png" crc="3758668202" seo="true" ref="phone>settings:settings">
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+      <caption webpage="settings" alt=""/>
+    </file>
+    <file name="u1521-4.png" crc="21599852" ref="phone>settings"/>
+    <file name="u1534-4.png" crc="123852603" ref="phone>settings"/>
+    <file name="u1537-4.png" crc="214464400" ref="phone>settings"/>
+    <file name="logo_bbc_news-crop-u2220.png" crc="4109461423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="button_menu-button-of-three-lines-crop-u2222.png" crc="86712654" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2230-4.png" crc="3975338511" ref="index"/>
+    <file name="u2231-4.png" crc="197851526" ref="index"/>
+    <file name="u2232-4.png" crc="4156053206" ref="index"/>
+    <file name="u2233-4.png" crc="3893544393" ref="index"/>
+    <file name="img_4295 2-crop-u2234.jpg" crc="3910031939" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u2265.jpg" crc="383173927" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2263-6.png" crc="471450292" ref="index"/>
+    <file name="u2269-6.png" crc="3999065125" ref="index"/>
+    <file name="img_4295 2-crop-u2285.jpg" crc="225685905" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u2281.jpg" crc="4054554454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u2287.jpg" crc="393327850" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2274-4.png" crc="4265050394" ref="index"/>
+    <file name="img_4295 2-crop-u2257.jpg" crc="4054554454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2275-4.png" crc="58826820" ref="index"/>
+    <file name="img_4295 2-crop-u2289.jpg" crc="321070001" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u2251.jpg" crc="4054554454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2276-4.png" crc="37534963" ref="index"/>
+    <file name="img_4295 2-crop-u2291.jpg" crc="4231522174" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u2246.jpg" crc="4054554454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2277-4.png" crc="4069708706" ref="index"/>
+    <file name="img_4295 2-crop-u2293.jpg" crc="3799663615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u2242.jpg" crc="4054554454" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2284-4.png" crc="3843548966" ref="index"/>
+    <file name="u2307-4.png" crc="4224861359" ref="index"/>
+    <file name="screen_stories-crop-u2308.jpg" crc="3803720489" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2313-4.png" crc="360966814" ref="index"/>
+    <file name="u2301-4.png" crc="366484310" ref="index"/>
+    <file name="screen_feature-crop-u2302.jpg" crc="4293531413" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2278-4.png" crc="363447626" ref="index"/>
+    <file name="img_4295 2-crop-u2295.jpg" crc="3799663615" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u2279-4.png" crc="108840427" ref="index"/>
+    <file name="screen_feature-crop-u2297.jpg" crc="193546387" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen_stories-crop-u2299.jpg" crc="320762908" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="img_4295 2.jpg" crc="4175170588" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="img_4295 2-crop-u3161.jpg" crc="3910031939" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="logo_bbc_news-crop-u3075.png" crc="4109461423" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="button_menu-button-of-three-lines-crop-u3077.png" crc="86712654" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="u3088-4.png" crc="444271378" ref="live"/>
+    <file name="u3089-4.png" crc="3894616366" ref="live"/>
+    <file name="u3086-4.png" crc="4143936642" ref="live"/>
+    <file name="u3087-4.png" crc="4204854222" ref="live"/>
+    <file name="screen_4296_live-crop-u3090.jpg" crc="3869146039" seo="true" ref="live">
+      <caption webpage="live" alt=""/>
+    </file>
+    <file name="u3093-8.png" crc="4066843539" ref="live"/>
+    <file name="img_4295 2-crop-u2670.jpg" crc="467829122" seo="true" ref="settings">
+      <caption webpage="settings" alt=""/>
+    </file>
+    <file name="u2672-4.png" crc="478859884" ref="settings"/>
+    <file name="u2678-4.png" crc="159857520" ref="settings"/>
+    <file name="u2673-4.png" crc="270805057" ref="settings"/>
+    <file name="u2674-4.png" crc="3970479705" ref="settings"/>
+    <file name="u2675-4.png" crc="21599852" ref="settings"/>
+    <file name="u2676-4.png" crc="123852603" ref="settings"/>
+    <file name="u2677-4.png" crc="214464400" ref="settings"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="live.css" crc="4240376863" ref="phone>live"/>
+      <file name="index.css" crc="435191407" ref="phone>index"/>
+      <file name="settings.css" crc="378688147" ref="phone>settings"/>
+    </folder>
+    <file name="index.html" crc="4287121230" seo="true" mt="1493782518504" redirect="true"/>
+    <file name="live.html" crc="73498223" seo="true" mt="1493782672068" redirect="true"/>
+    <file name="settings.html" crc="4204457564" seo="true" mt="1493782692762" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="3807465558" seo="true" mt="1493782627593" redirect="true"/>
+  <file name="live.html" crc="3847587828" seo="true" mt="1493783904443" redirect="true"/>
+  <file name="settings.html" crc="234398652" seo="true" mt="1493783454509" redirect="true"/>
+</manifest>
